@@ -1,5 +1,38 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Leonardo"
+    },
+    {
+      "name": "Harold Bednar",
+      "id": 2
+    },
+    {
+      "name": "Brandon Beier",
+      "id": 3
+    },
+    {
+      "name": "Lula DuBuque",
+      "id": 4
+    },
+    {
+      "name": "Wendell Greenfelder",
+      "id": 5
+    },
+    {
+      "name": "Joyce Shields",
+      "id": 6
+    },
+    {
+      "name": "Helen Kling",
+      "id": 7
+    },
+    {
+      "name": "Gertrude King",
+      "id": 8
+    }
+  ],
   "albums": [],
   "photos": []
 }
