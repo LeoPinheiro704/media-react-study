@@ -3,30 +3,9 @@
     {
       "name": "Lula DuBuque",
       "id": 4
-    },
-    {
-      "name": "Wendell Greenfelder",
-      "id": 5
-    },
-    {
-      "name": "Joyce Shields",
-      "id": 6
-    },
-    {
-      "name": "Sammy Lebsack I",
-      "id": 10
-    },
-    {
-      "name": "Cynthia Leuschke",
-      "id": 12
     }
   ],
   "albums": [
-    {
-      "id": 1,
-      "title": "Hiking Trip",
-      "userId": 4
-    },
     {
       "userId": 4,
       "title": "Handmade Concrete Gloves",
@@ -34,24 +13,30 @@
     },
     {
       "userId": 4,
-      "title": "Electronic Wooden Shirt",
+      "title": "Small Soft Hat",
+      "id": 4
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=31561",
+      "id": 1
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7816",
+      "id": 2
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=19856",
       "id": 3
     },
     {
-      "userId": 4,
-      "title": "Small Soft Hat",
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=29598",
       "id": 4
-    },
-    {
-      "userId": 4,
-      "title": "Handcrafted Soft Bacon",
-      "id": 5
-    },
-    {
-      "userId": 4,
-      "title": "Modern Steel Pizza",
-      "id": 6
     }
-  ],
-  "photos": []
+  ]
 }
