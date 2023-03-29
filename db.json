@@ -1,18 +1,6 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Leonardo"
-    },
-    {
-      "name": "Harold Bednar",
-      "id": 2
-    },
-    {
-      "name": "Brandon Beier",
-      "id": 3
-    },
-    {
       "name": "Lula DuBuque",
       "id": 4
     },
@@ -25,14 +13,45 @@
       "id": 6
     },
     {
-      "name": "Helen Kling",
-      "id": 7
+      "name": "Sammy Lebsack I",
+      "id": 10
     },
     {
-      "name": "Gertrude King",
-      "id": 8
+      "name": "Cynthia Leuschke",
+      "id": 12
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Hiking Trip",
+      "userId": 4
+    },
+    {
+      "userId": 4,
+      "title": "Handmade Concrete Gloves",
+      "id": 2
+    },
+    {
+      "userId": 4,
+      "title": "Electronic Wooden Shirt",
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "title": "Small Soft Hat",
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "title": "Handcrafted Soft Bacon",
+      "id": 5
+    },
+    {
+      "userId": 4,
+      "title": "Modern Steel Pizza",
+      "id": 6
+    }
+  ],
   "photos": []
 }
